@@ -1,0 +1,50 @@
+.copy_right_footer {
+    position:  fixed;
+    bottom:0 ;
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    box-shadow:0 6px 8px 0 rgba(2,2,2, 0.2);
+width: 38%;
+border-radius: 5px;
+padding: 10px;
+}
+img:hover{
+    border-radius : 140px;
+}
+
+body{
+    background-color: rgb(17, 98, 98);
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-style:Arial, Helvetica, sans-serif;
+}
+
+h4{
+    color: blueviolet;
+
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.column{
+    display: inline;
+    padding: 10px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: blue;
+    background-color:yellow;
+    line-height: 3px;
+    text-align: center;
+    bottom:0;
+    width:100%;
+}
